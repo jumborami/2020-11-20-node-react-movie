@@ -16,3 +16,5 @@ You can watch the tutorial for this app.
 https://www.youtube.com/channel/UCFyXA9x8lpL3EYWeYhj4C4Q?view_as=subscriber
 
 
+위의 템플릿과 강의 내용을 참고하여 만든 공부용 깃입니다.
+
